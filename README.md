@@ -1,4 +1,4 @@
-# Lab 10
+# Lab 11
 
 ## Recap: Lab (Github) Workflow 📄 - How to Work on Labs
 
@@ -34,7 +34,7 @@ Follow these steps for every lab carefully to access, complete, and submit your 
 
 ---
 
-## Lab 10 Tasks
+## Lab 11 Tasks
 
 ### Collections Framework: ArrayList
 
@@ -76,7 +76,7 @@ _Using dynamic arrays in Java_
 ### Example Output
 
 ```
-=== TASK 1: Quest Tracker ===
+===  TASK 1: Quest Tracker ===
 
 --- Your Quests ---
   1. Defeat the Goblin King
